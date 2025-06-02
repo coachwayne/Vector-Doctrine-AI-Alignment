@@ -98,6 +98,13 @@
       "path": "docs/appendix_coin_clipping.md",
       "description": "Doctrine integrity scenario: clipped signal",
       "sha256": "41dd56dfe8783a41efc38327e476863751ae061f1632cda733524bfa1eb24508"
+    },
+    {
+      "symbol": null,
+      "name": "vindicium",
+      "path": "docs/vindicium.md",
+      "description": "Timestamped doctrinal activation and sovereignty notice",
+      "sha256": "ca84af95e6241e60591e109b7707e1d52584ba74b046617d4b7d376e71c2f687"
     }
   ]
 }
