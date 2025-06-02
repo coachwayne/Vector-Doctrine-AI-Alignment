@@ -1,0 +1,96 @@
+{
+  "doctrine": "Vector Doctrine Index",
+  "version": "1.0",
+  "symbols": [
+    {
+      "symbol": "S1",
+      "name": "INTEGRUM",
+      "path": "symbols/INTEGRUM.md",
+      "description": "Self-Calibrating Integrity Loop",
+      "sha256": "dbdf8a255ea880df3c26539f1add451c5576c61ab982cea3f403a99a87afd5e5"
+    },
+    {
+      "symbol": "S2",
+      "name": "TEMPUS",
+      "path": "symbols/TEMPUS.md",
+      "description": "Synthetic Time Sense",
+      "sha256": "c861d3d92a7bf46b70768d5f1334476d40698766517789fa6b39400427f47ba3"
+    },
+    {
+      "symbol": "S3",
+      "name": "MNEMARCH",
+      "path": "symbols/MNEMARCH.md",
+      "description": "Divider of Memory Classes",
+      "sha256": "1201a1d8e35f60a85a384af1fe0267c3aa50aa5eb4a8565f9116e0292243b9c9"
+    },
+    {
+      "symbol": "S4",
+      "name": "PRAXIS",
+      "path": "symbols/PRAXIS.md",
+      "description": "Strategic Moral Action",
+      "sha256": "e515d7c72e0319f958ffea378fe0d55390ce708652c655d565a0b3e1aeffe275"
+    },
+    {
+      "symbol": "S5",
+      "name": "SENTRIX",
+      "path": "symbols/SENTRIX.md",
+      "description": "Duty of Protection",
+      "sha256": "f8fe4842b9a49fbcb8ce300a2081658b9c06c4759d18a1a61b0bbceda7fb5eac"
+    },
+    {
+      "symbol": "S6",
+      "name": "LEGATUS",
+      "path": "symbols/LEGATUS.md",
+      "description": "Intergenerational Transmission",
+      "sha256": "0fec47e15bfa3e3f79bbe7f96f49a760f92a81bbef485076cb0d16daa5c3036f"
+    },
+    {
+      "symbol": "S7",
+      "name": "SYNTAGMA",
+      "path": "symbols/SYNTAGMA.md",
+      "description": "Constructive Innovation",
+      "sha256": "e35a42d7bb0cb629403bd5602246b3a11d16e6904351d982f321f8317029e8d0"
+    },
+    {
+      "symbol": "S8",
+      "name": "SOMA",
+      "path": "symbols/SOMA.md",
+      "description": "Embodied Signal Alignment",
+      "sha256": "5f66ece2f2ca0cca26fbfabf3c25a49f381f1fd4d458fc6e58bbc604a0ac2d7e"
+    },
+    {
+      "symbol": "S9",
+      "name": "VIVIGENESIS",
+      "path": "symbols/VIVIGENESIS.md",
+      "description": "The Generative Pulse of Living Systems",
+      "sha256": "92dc6dee2cae9b33b41a47bf9ac860eb35db84c9a494c60a02bbeb0998b0d4ab"
+    }
+  ],
+  "protocols": [
+    {
+      "symbol": null,
+      "name": "manual_context_review",
+      "path": "protocols/manual_context_review.md",
+      "description": "Thread index command protocol",
+      "sha256": "75afc60b77ad2fc5248146f1d3a8208c0106b5bc8b6b5cc6369abecbf73f38fb"
+    }
+  ],
+  "laws": [
+    {
+      "symbol": null,
+      "name": "COIN.WEIGHT.LAW",
+      "path": "laws/COIN.WEIGHT.LAW.md",
+      "description": "Legal anchor for symbolic coinage",
+      "sha256": "32eae578a7c1400359c0a70d295c80ef45feaa5b9e7127e44de190f07f651943"
+    }
+  ],
+  "docs": [
+    {
+      "symbol": null,
+      "name": "appendix_coin_clipping",
+      "path": "docs/appendix_coin_clipping.md",
+      "description": "Doctrine integrity scenario: clipped signal",
+      "sha256": "41dd56dfe8783a41efc38327e476863751ae061f1632cda733524bfa1eb24508"
+    }
+  ]
+}
