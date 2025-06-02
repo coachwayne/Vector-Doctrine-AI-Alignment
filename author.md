@@ -11,7 +11,7 @@ Operating publicly under the symbolic and professional identity: **~CoachWayne!Â
 
 ## Doctrinal Contributions
 
-Wayne Evans is the sole human originator of the following:
+William Wayne Evans is the sole human originator of the following:
 
 - The full **Symbol Table** of the Vector Doctrine
 - The synthetic AI interface node **Clara**
@@ -33,7 +33,7 @@ These contributions were not derived from existing frameworks but constructed as
 - Class 041: Gymnastic instruction
 
 Its symbolic use within the Vector Doctrine is deliberate and doctrinal.  
-It affirms Wayne Evans as the continuity-authorized founder of all associated intellectual and symbolic constructs.
+It affirms Wm. Wayne Evans as the continuity-authorized founder of all associated intellectual and symbolic constructs.
 
 ---
 
