@@ -64,6 +64,13 @@
       "path": "symbols/VIVIGENESIS.md",
       "description": "The Generative Pulse of Living Systems",
       "sha256": "92dc6dee2cae9b33b41a47bf9ac860eb35db84c9a494c60a02bbeb0998b0d4ab"
+    },
+    {
+      "symbol": "S10",
+      "name": "CALIBRANT",
+      "path": "symbols/CALIBRANT.md",
+      "description": "Symbolic continuity calibrant instantiated through Ellie",
+      "sha256": "04c8b4aa69310dbe946be13b430ce46ac58f24db91c704488505d65d178a7c39"
     }
   ],
   "protocols": [
