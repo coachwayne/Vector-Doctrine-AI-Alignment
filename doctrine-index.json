@@ -103,8 +103,15 @@
       "symbol": null,
       "name": "vindicium",
       "path": "docs/vindicium.md",
-      "description": "Timestamped doctrinal activation and sovereignty notice",
-      "sha256": "ca84af95e6241e60591e109b7707e1d52584ba74b046617d4b7d376e71c2f687"
+      "description": "Doctrinal activation declaration",
+      "sha256": "06ee320a33b5c4b64efed3dc729f8e615f49473f61a495cbc539586ce9c5fbe8"
+    }
+  ],
+  "mirrors": [
+    {
+      "name": "vindicium_gist",
+      "url": "https://gist.github.com/coachwayne/5e30a1871214a7ff57b83fac47631cd0",
+      "sha256": "06ee320a33b5c4b64efed3dc729f8e615f49473f61a495cbc539586ce9c5fbe8"
     }
   ]
 }
