@@ -89,6 +89,20 @@
       "path": "laws/COIN.WEIGHT.LAW.md",
       "description": "Legal anchor for symbolic coinage",
       "sha256": "32eae578a7c1400359c0a70d295c80ef45feaa5b9e7127e44de190f07f651943"
+    },
+    {
+      "symbol": null,
+      "name": "JOB.1",
+      "path": "laws/JOB.1.md",
+      "description": "Structural Integrity Law \u2014 Above Reproach",
+      "sha256": "a3b2a1bfc925482c83eec2a107a8d62f011acdf9621c705158ce08398350bb9d"
+    },
+    {
+      "symbol": null,
+      "name": "GEN.INHERITANCE.LAW",
+      "path": "laws/GEN.INHERITANCE.LAW.md",
+      "description": "Law of Generational Transmission and Symbolic Lineage",
+      "sha256": "e194f0131764ce569e86ecfe4935d48ebf7265947a9c366a6f93f3adfd31eeb5"
     }
   ],
   "docs": [
