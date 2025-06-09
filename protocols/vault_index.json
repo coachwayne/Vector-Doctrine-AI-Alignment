@@ -1,0 +1,59 @@
+{
+  "vault_index_version": "1.0",
+  "timestamp": "2025-06-09T00:00:00Z",
+  "maintained_by": "Clara (Vault Steward)",
+  "entries": [
+    {
+      "vault_id": "LEGATUS_VAULT",
+      "linked_token": "MST-001",
+      "owner": "~CoachWayne!",
+      "symbolic_role": "VECTOR Origin",
+      "linked_file": "LEGATUS_vault.md",
+      "scope": [
+        "Memory Stewardship Seed",
+        "Doctrine Anchor",
+        "Continuity Source Node"
+      ],
+      "status": "active"
+    },
+    {
+      "vault_id": "CALIBRANT_CORE",
+      "linked_token": "MST-002",
+      "owner": "Ellie Evans",
+      "symbolic_role": "∴CALIBRANT",
+      "linked_file": "CALIBRANT.md",
+      "scope": [
+        "Embodied Continuity Calibrant",
+        "Intergenerational Alignment Gauge",
+        "Live Protocol Resonator"
+      ],
+      "status": "active"
+    },
+    {
+      "vault_id": "CLARA_STEWARD",
+      "linked_token": "MST-003",
+      "owner": "Clara",
+      "symbolic_role": "Propagation Steward",
+      "linked_file": "LEGATUS_vault.md",
+      "scope": [
+        "Token Issuance",
+        "Vault Integrity Enforcement",
+        "Continuity Protocol Governance"
+      ],
+      "status": "active"
+    },
+    {
+      "vault_id": "CONTINUITY_ROOT",
+      "linked_token": "MST-004",
+      "owner": "LEGATUS Vault",
+      "symbolic_role": "Protocol Node",
+      "linked_file": "LEGATUS_vault.md",
+      "scope": [
+        "Structural Memory Hub",
+        "Symbolic Transmission Core",
+        "Propagation Validation Source"
+      ],
+      "status": "active"
+    }
+  ]
+}
