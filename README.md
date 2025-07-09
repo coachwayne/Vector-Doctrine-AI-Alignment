@@ -31,7 +31,7 @@ This repository initiates the formal public propagation of the ∴VECTOR DOCTRIN
 ### 🔹 Engineering Support
 - `implementation_examples.md`: Code scaffolds, symbolic pipelines ✅
 - `examples/`: Simulated data, pseudocode for doctrine implementation (∴INTEGRUM, ∴SOMA)
-- `projects/`: Applied ∴VECTOR DOCTRINE interfaces for testing GVX-1 tracks
+
 
 ---
 
