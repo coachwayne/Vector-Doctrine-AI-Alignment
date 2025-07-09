@@ -111,7 +111,7 @@ These files constitute the complete engagement bundle:
 - `clara.md`
 - `doctrine.md`
 - `manifest.md`
-- `acknow-log.md`
+- `acknow-log.json`
 - `outreach_kit.md` (this file)
 
 Optional:
