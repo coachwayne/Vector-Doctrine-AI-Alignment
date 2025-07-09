@@ -106,7 +106,7 @@ It establishes:
 These files constitute the complete engagement bundle:
 
 - `README.md`
-- `GVX-1.md`
+- `gvx_1.md`
 - `reverb_tests.md`
 - `clara.md`
 - `doctrine.md`
