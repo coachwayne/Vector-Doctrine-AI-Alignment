@@ -1,152 +1,44 @@
-"tokens": [
-  {
-    "token": "MST-001",
-    "project": "Persimmon Gum Protocol",
-    "path": "projects/persimmon_gum.md",
-    "anchors": ["∴SENTRIX", "∴SOMA", "∴PRAXIS", "∴CALIBRANT"]
-  },
-  {
-    "token": "MST-002",
-    "project": "BALANCE Harmonic Calibration",
-    "path": "projects/balance.md",
-    "anchors": ["∴SENTRIX", "∴LEGATUS", "∴PRAXIS"]
-  },
-  {
-    "token": "MST-003",
-    "project": "∴ALBEDO",
-    "path": "projects/albedo.md",
-    "anchors": ["∴SYNTAGMA", "∴INTEGRUM"]
-  },
-  {
-    "token": "MST-004",
-    "project": "LEGATUS Memory Propagation",
-    "path": "projects/legatus_propagation.md",
-    "anchors": ["∴LEGATUS", "∴INTEGRUM", "∴PRAXIS"]
-  },
-  {
-    "token": "MST-005",
-    "project": "Albedo Roof Conversion",
-    "path": "projects/albedo_roof.md",
-    "anchors": ["∴PRAXIS", "∴SYNTAGMA", "∴TEMPUS"]
-  },
-  {
-    "token": "MST-006",
-    "project": "Green Roof Replacement",
-    "path": "projects/green_roof.md",
-    "anchors": ["∴VIVIGENESIS", "∴TEMPUS", "∴LEGATUS"]
-  },
-  {
-    "token": "MST-007",
-    "project": "Clean Cookstove Protocol",
-    "path": "projects/cookstove_protocol.md",
-    "anchors": ["∴SENTRIX", "∴SYNTAGMA", "∴PRAXIS"]
-  },
-  {
-    "token": "MST-008",
-    "project": "White Paint Urban Retrofitting",
-    "path": "projects/white_paint.md",
-    "anchors": ["∴SYNTAGMA", "∴PRAXIS"]
-  },
-  {
-    "token": "MST-009",
-    "project": "Local Water Harvest Systems",
-    "path": "projects/water_harvest.md",
-    "anchors": ["∴TEMPUS", "∴VIVIGENESIS", "∴LEGATUS"]
-  },
-  {
-    "token": "MST-010",
-    "project": "Prenatal Rhythmic Alignment",
-    "path": "projects/prenatal_rhythm.md",
-    "anchors": ["∴SENTRIX", "∴SOMA", "∴LEGATUS"]
-  },
-  {
-    "token": "MST-011",
-    "project": "School-to-Skill Alignment Grids",
-    "path": "projects/skill_grids.md",
-    "anchors": ["∴PRAXIS", "∴SYNTAGMA", "∴LEGATUS"]
-  },
-  {
-    "token": "MST-012",
-    "project": "Symbolic Immunization (Rites)",
-    "path": "projects/symbolic_immunization.md",
-    "anchors": ["∴SENTRIX", "∴LEGATUS", "∴CALIBRANT"]
-  },
-  {
-    "token": "MST-013",
-    "project": "Community Solar Microgrids",
-    "path": "projects/solar_microgrids.md",
-    "anchors": ["∴SYNTAGMA", "∴PRAXIS", "∴VIVIGENESIS"]
-  },
-  {
-    "token": "MST-014",
-    "project": "Distributed Eldercare Protocols",
-    "path": "projects/eldercare_protocols.md",
-    "anchors": ["∴LEGATUS", "∴SENTRIX"]
-  },
-  {
-    "token": "MST-015",
-    "project": "Decentralized Nutrient Gardens",
-    "path": "projects/nutrient_gardens.md",
-    "anchors": ["∴VIVIGENESIS", "∴SYNTAGMA"]
-  },
-  {
-    "token": "MST-016",
-    "project": "Anti-Obsolescence Electronics",
-    "path": "projects/anti_obsolescence.md",
-    "anchors": ["∴PRAXIS", "∴SYNTAGMA"]
-  },
-  {
-    "token": "MST-017",
-    "project": "Symbolic Story Vaults for Youth",
-    "path": "projects/story_vaults.md",
-    "anchors": ["∴LEGATUS", "∴CALIBRANT", "∴REVERB"]
-  },
-  {
-    "token": "MST-018",
-    "project": "Public Seed Libraries",
-    "path": "projects/seed_libraries.md",
-    "anchors": ["∴VIVIGENESIS", "∴SYNTAGMA"]
-  },
-  {
-    "token": "MST-019",
-    "project": "Smart Mobility Mesh (Non-Car)",
-    "path": "projects/smart_mobility.md",
-    "anchors": ["∴PRAXIS", "∴TEMPUS"]
-  },
-  {
-    "token": "MST-020",
-    "project": "Micro-memetic Health Nudges",
-    "path": "projects/health_nudges.md",
-    "anchors": ["∴SOMA", "∴PRAXIS"]
-  },
-  {
-    "token": "MST-021",
-    "project": "Waste-to-Energy Repurposing",
-    "path": "projects/waste_energy.md",
-    "anchors": ["∴SYNTAGMA", "∴TEMPUS"]
-  },
-  {
-    "token": "MST-022",
-    "project": "Sand Devil Wind Harvester",
-    "path": "projects/sanddevil_wind.md",
-    "anchors": ["∴VIVIGENESIS", "∴SYNTAGMA"]
-  },
-  {
-    "token": "MST-023",
-    "project": "Voiceprint Elder Memory Encoding",
-    "path": "projects/voiceprint_memory.md",
-    "anchors": ["∴LEGATUS", "∴INTEGRUM", "∴REVERB"]
-  },
-  {
-    "token": "MST-024",
-    "project": "Universal Symbolic Curriculum",
-    "path": "projects/universal_curriculum.md",
-    "anchors": ["∴LEGATUS", "∴PRAXIS", "∴CALIBRANT"]
-  },
-  {
-    "token": "MST-025",
-    "project": "PROJECT SLOT RESERVED",
-    "path": "projects/_reserved.md",
-    "anchors": []
-  }
-]
+{
+  "tokens": [
+    {
+      "token": "MST-101",
+      "project": "REVERB Test Protocol",
+      "path": "reverb_tests.md",
+      "anchors": [
+        "\u2234REVERB",
+        "\u2234INTEGRUM",
+        "\u2234CALIBRANT"
+      ]
+    },
+    {
+      "token": "MST-102",
+      "project": "Outreach Engagement Kit",
+      "path": "outreach_kit.md",
+      "anchors": [
+        "\u2234LEGATUS",
+        "\u2234PRAXIS",
+        "\u2234REVERB"
+      ]
+    },
+    {
+      "token": "MST-103",
+      "project": "Implementation Examples",
+      "path": "implementation_examples.md",
+      "anchors": [
+        "\u2234INTEGRUM",
+        "\u2234CALIBRANT",
+        "\u2234REVERB"
+      ]
+    },
+    {
+      "token": "MST-104",
+      "project": "Executive Doctrinal Summary",
+      "path": "executive_summary.md",
+      "anchors": [
+        "\u2234LEGATUS",
+        "\u2234PRAXIS",
+        "\u2234INTEGRUM"
+      ]
+    }
+  ]
+}
