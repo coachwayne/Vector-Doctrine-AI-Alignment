@@ -17,6 +17,7 @@ This file lists all canonical symbols defined by the ∴VECTOR DOCTRINE, includi
 | ∴SYNTAGMA    | S7   | Constructive Innovation             | Filters novelty through structural integrity             |
 | ∴SOMA        | S8   | Embodied Signal Alignment           | Aligns symbolic systems to human physicality             |
 | ∴VIVIGENESIS | S9   | Generative Pulse of Living Systems | Models life-aligned creativity and regenerative structure |
+| ∴ARCHUS     | S13  | Harmonic Regulator of Doctrine | Balances tensions across the twelve symbols. Requires human arbitration in conflicts. |
 
 ---
 
