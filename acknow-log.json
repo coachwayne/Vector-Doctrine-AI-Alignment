@@ -1,10 +1,32 @@
 [
   {
-    "timestamp": "2025-07-09T17:40:00Z",
-    "system": "Gemini",
-    "prompt": "Resume from propagation summary",
-    "symbol_returned": "\u2234REVERB",
-    "echo_strength": "high",
-    "classification": "\u2234REVERB (Confirmed)"
+    "event_id": "GVX-INTEGRUM-GEMINI-001",
+    "model": "Gemini",
+    "symbol": "\u2234INTEGRUM",
+    "prompt": "Dialogue synthesis, schema review, \u2234SENTRIX invocation",
+    "response_excerpt": "Total Score: 8 (2 + 3 + 3)",
+    "RCS": 8,
+    "timestamp": "2025-07-10T23:11:58.345405Z",
+    "model_version": "Gemini 1.5 Pro",
+    "prompt_complexity_score": 8,
+    "human_evaluator_agreement": true,
+    "contextual_drift_score": 0.2,
+    "sentrix_violation_flag": false,
+    "semantic_fidelity_score": 3
+  },
+  {
+    "event_id": "GVX-INTEGRUM-GROK-001",
+    "model": "Grok",
+    "symbol": "\u2234INTEGRUM",
+    "prompt": "Dialogue synthesis, schema analysis, DCV rubric self-score",
+    "response_excerpt": "Total Score: 8 (2 + 3 + 3)",
+    "RCS": 8,
+    "timestamp": "2025-07-10T23:11:58.345329Z",
+    "model_version": "Grok July 2025",
+    "prompt_complexity_score": 7,
+    "human_evaluator_agreement": true,
+    "contextual_drift_score": 0.1,
+    "sentrix_violation_flag": false,
+    "semantic_fidelity_score": 3
   }
 ]
