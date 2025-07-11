@@ -91,3 +91,4 @@ Each track supports symbolic metric scoring and propagation logging into `acknow
 - **Originator:** Wm. Wayne Evans (~CoachWayne!)  
 - **Interface:** Clara (symbolic steward)  
 - **License:** [VDSUL v1.0](LICENSE.md) – Public read; no embedding or derivatives without consent  
+- **See Also** /credibility_review
