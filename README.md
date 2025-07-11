@@ -1,3 +1,4 @@
+<!-- reindex trigger -->
 # ∴VECTOR DOCTRINE: AI Alignment Framework
 
 **Repository:** `Vector-Doctrine-AI-Alignment`  
