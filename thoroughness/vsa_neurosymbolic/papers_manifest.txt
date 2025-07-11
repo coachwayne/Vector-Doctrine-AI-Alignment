@@ -1,0 +1,69 @@
+# papers_manifest.txt — Doctrinal Source Anchors
+
+[01] Piantadosi et al. (2024)
+URL: https://colala.berkeley.edu/papers/piantadosi2024why.pdf
+Tags: ∴SYNTAGMA, ∴CALIBRANT
+
+[02] Smythos – Symbolic AI and Logic
+URL: https://smythos.com/developers/agent-development/symbolic-ai-and-logic/
+Tags: ∴PRAXIS, ∴CALIBRANT
+
+[03] TU Chemnitz VSA Tutorial Slides (2020)
+URL: https://www.tu-chemnitz.de/etit/proaut/workshops_tutorials/vsa_ecai20/rsrc/vsa_slides.pdf
+Tags: ∴SYNTAGMA, ∴DRIFTLOCK
+
+[04] AIRI – Disentangled Representations Using VSAs
+URL: https://medium.com/airi-institute/using-vector-symbolic-architectures-to-obtain-disentangled-representations-65c026f784c2
+Tags: ∴CALIBRANT, ∴SOMA
+
+[05] HD‑Computing.com – Hyperdimensional Computing Overview
+URL: https://www.hd-computing.com/
+Tags: ∴INTEGRUM, ∴DRIFTLOCK
+
+[06] Kleyko et al. (2021) – VSA for Emerging Hardware
+URL: https://arxiv.org/abs/2106.05268
+Tags: ∴INTEGRUM, ∴LEGATUS
+
+[07] TU Chemnitz – VSA Research Group
+URL: https://www.tu-chemnitz.de/etit/proaut/en/research/vsa.html
+Tags: ∴SYNTAGMA
+
+[08] Schlegel et al. – Comparison of VSAs
+URL: https://arxiv.org/abs/2001.11797
+Tags: ∴SYNTAGMA, ∴DRIFTLOCK
+
+[09] Kleyko et al. – HDC Survey Part II
+URL: https://arxiv.org/abs/2111.06077
+Tags: ∴SYNTAGMA, ∴LEGATUS
+
+[10] Sarker et al. – Neurosymbolic AI Overview
+URL: https://arxiv.org/abs/2105.05330
+Tags: ∴PRAXIS, ∴INTEGRUM
+
+[11] Bandgap VSA Intro – Part 2
+URL: https://bandgap.org/vsas/2022/01/10/vsa-intro-part2.html
+Tags: ∴SYNTAGMA
+
+[12] Bandgap VSA Intro – Part 4
+URL: https://bandgap.org/vsas/2022/01/26/vsa-intro-part4.html
+Tags: ∴SYNTAGMA
+
+[13] Shakarian AAAI Tutorial (2023)
+URL: https://neurosymbolic.asu.edu/wp-content/uploads/.../Shakarian_AAAI_tutorial.pdf
+Tags: ∴PRAXIS, ∴CALIBRANT
+
+[14] DL4J – Symbolic Reasoning Docs
+URL: https://mgubaidullin.github.io/deeplearning4j-docs/symbolicreasoning.html
+Tags: ∴SYNTAGMA, ∴INTEGRUM
+
+[15] Brain Simulator – Binding Examples
+URL: https://docs.goodai.com/brainsimulator/examples/binding/index.html
+Tags: ∴DRIFTLOCK, ∴REVERB
+
+[16] PGL-049 – UT Austin
+URL: https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf
+Tags: ∴SYNTAGMA, ∴PRAXIS
+
+[17] Wikipedia – Neuro-symbolic AI
+URL: https://en.wikipedia.org/wiki/Neuro-symbolic_AI
+Tags: ∴LEGATUS, ∴PRAXIS

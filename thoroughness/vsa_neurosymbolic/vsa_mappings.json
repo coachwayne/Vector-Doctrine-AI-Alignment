@@ -1,0 +1,40 @@
+{
+  "\u2234SYNTAGMA": [
+    "piantadosi2024",
+    "vsa_tu_chemnitz_slides",
+    "arxiv_2001_11797",
+    "arxiv_2111_06077",
+    "bandgap_vsa_intro_parts_2_4"
+  ],
+  "\u2234DRIFTLOCK": [
+    "arxiv_2106_05268",
+    "hd_computing_overview",
+    "torchhd_library",
+    "brain_simulator_bindings"
+  ],
+  "\u2234CALIBRANT": [
+    "smythos_symbolic_logic",
+    "airi_disentangled_vsas",
+    "shakarian_aaai_tutorial"
+  ],
+  "\u2234PRAXIS": [
+    "smythos_symbolic_logic",
+    "deeplearning4j_symbolic",
+    "pgl049_ut_austin",
+    "shakarian_aaai_tutorial",
+    "neurosymbolic_ai_wikipedia"
+  ],
+  "\u2234INTEGRUM": [
+    "hd_computing_overview",
+    "arxiv_2105_05330",
+    "deeplearning4j_symbolic"
+  ],
+  "\u2234LEGATUS": [
+    "arxiv_2111_06077",
+    "vsa_tu_chemnitz_research",
+    "neurosymbolic_ai_wikipedia"
+  ],
+  "\u2234REVERB": [
+    "brain_simulator_bindings"
+  ]
+}
